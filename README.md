@@ -6,6 +6,8 @@ Animation by Jakub Kaminski
 Controllers code by Mostafa Atalla, Calvin He and Jakub Kaminski
 
 ### Animations generated can be found on YouTube:
+Passivity-based Controller and reference trajectory: https://youtu.be/ciuWzi5VB5Q
+
 Inverse-Dynamics Controller: https://youtu.be/AQJjr3sGdbM
 
 Lapunov-based Controller: https://youtu.be/83hr36adFTA
@@ -16,8 +18,10 @@ Passivity-based Controller: https://youtu.be/UTVANNz7S3U
 ### Clone repository:
     git clone https://github.com/jakub-kaminski/2link-robot
 
+### Run MATLAB code (Passivity based controller and the reference trajectory):
+    matlab animation_robot_ref.m
 
-### Run MATLAB code (inverse dynamics controller by default):
+### Or alternatively, run (inverse dynamics controller by default):
     matlab animation_robot.m
     
 ### Or the same code in the MATLAB console:

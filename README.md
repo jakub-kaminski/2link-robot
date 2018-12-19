@@ -5,6 +5,12 @@ Animation by Jakub Kaminski
 
 Controllers code by Mostafa Atalla, Calvin He and Jakub Kaminski
 
+### Animations generated can be found on YouTube:
+Inverse-Dynamics Controller: https://youtu.be/AQJjr3sGdbM
+
+Lapunov-based Controller: https://youtu.be/83hr36adFTA
+
+Passivity-based Controller: https://youtu.be/UTVANNz7S3U
 
 ### Instructions to run animations:
 ### Clone repository:

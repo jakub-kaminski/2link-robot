@@ -118,7 +118,7 @@ for i=1:size(th1,2)
         linkTransform(link1d, verts1d, fr1d)
         linkTransform(link2d, verts2d, fr2d)
         drawnow;
-        pause(10)
+        % pause(10)
     elseif T(i) > Tx(i_ref)
         % since ODE number of iteration of controller and reference is not equal
         % time is used to match the nearest corresponding robot position
